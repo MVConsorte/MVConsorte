@@ -25,6 +25,5 @@
   <img src="https://user-images.githubusercontent.com/108163301/197303591-184ffa21-643f-400b-b454-288693620e14.png" height="300px" />
 </div>
   
-<div>
-  ![Snake animation](https://github.com/MVConsorte/MVConsorte/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/MVConsorte/MVConsorte/blob/output/github-contribution-grid-snake.svg)
+  
