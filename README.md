@@ -26,5 +26,5 @@
 </div>
   
 <div>
-  
+  ![Snake animation](https://github.com/MVConsorte/MVConsorte/blob/output/github-contribution-grid-snake.svg)
 </div>
