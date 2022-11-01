@@ -26,4 +26,6 @@
 </div>
   
 ![Snake animation](https://github.com/MVConsorte/MVConsorte/blob/output/github-contribution-grid-snake.svg)
-  
+ 
+ <h2 align="right"> Visualizações </h2>
+ <p align="left"> <img align="center" src="https://profile-counter.glitch.me/MVConsorte/count.svg"/> </p>
