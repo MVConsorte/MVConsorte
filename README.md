@@ -28,9 +28,9 @@
   <p align= "center"> <img src="https://user-images.githubusercontent.com/108163301/197303591-184ffa21-643f-400b-b454-288693620e14.png" height="300px" /></p>
 </div>
 
-<div class="tenor-gif-embed" data-postid="26777135" data-share-method="host" data-aspect-ratio="1.66667" data-width="100%">
-  <a href="https://tenor.com/view/rainy-night-gif-26777135">Rainy Night GIF</a>
-  <a href="https://tenor.com/search/rainy+night-gifs">Rainy Night GIFs</a>
+<div class="tenor-gif-embed" data-postid="23722022" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%">
+  <a href="https://tenor.com/view/mario-pixel-art-gaming-room-gif-23722022">Mario Pixel Art GIF</a> from 
+  <a href="https://tenor.com/search/mario-gifs">Mario GIFs</a>
 </div>
 <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
