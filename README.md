@@ -23,12 +23,11 @@
   <a href="https://www.linkedin.com/in/mateus-villela-consorte-497a53253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![mario-pixel-art](https://github.com/user-attachments/assets/9df83fc6-bd17-49a8-b1f9-e8acf2e71dcb)
-
 <div>
   <h3 align= "right">  Visualizações <img align="right" src="https://profile-counter.glitch.me/MVConsorte/count.svg"/>  </h3>
-  <p align= "center"> <img src="https://user-images.githubusercontent.com/108163301/197303591-184ffa21-643f-400b-b454-288693620e14.png" height="300px" /></p>
+  <p align= "center" height="200px"> ![mario-pixel-art](https://github.com/user-attachments/assets/9df83fc6-bd17-49a8-b1f9-e8acf2e71dcb) </p>
 </div>
+
 
 ![Snake animation](https://github.com/MVConsorte/MVConsorte/blob/output/github-contribution-grid-snake.svg)
   
