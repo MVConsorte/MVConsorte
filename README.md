@@ -27,7 +27,7 @@
   <h3 align= "right">  Visualizações <img align="right" src="https://profile-counter.glitch.me/MVConsorte/count.svg"/>  </h3>
 </div>
 
-![mario-pixel-art](https://github.com/user-attachments/assets/21a5f2b8-f50d-4819-9a69-cd0b7d59f016)
+![mario-pixel-art(3)](https://github.com/user-attachments/assets/21a5f2b8-f50d-4819-9a69-cd0b7d59f016)
 
 
 ![Snake animation](https://github.com/MVConsorte/MVConsorte/blob/output/github-contribution-grid-snake.svg)
