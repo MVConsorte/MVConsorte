@@ -25,7 +25,7 @@
 
 <div>
   <h3 align= "right">  Visualizações <img align="right" src="https://profile-counter.glitch.me/MVConsorte/count.svg"/>  </h3>
-  <p align= "center" height="200px"> ![mario-pixel-art](https://github.com/user-attachments/assets/9df83fc6-bd17-49a8-b1f9-e8acf2e71dcb) </p>
+  <p align= "center"> ![mario-pixel-art](https://github.com/user-attachments/assets/9df83fc6-bd17-49a8-b1f9-e8acf2e71dcb) </p>
 </div>
 
 
